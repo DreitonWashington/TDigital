@@ -8,6 +8,6 @@ Rodar o projeto
 
 ### https://dreitonwashington.github.io/TDigital/
 
-Para visualizar a landingpage (ainda não responsiva)
-Permitir localização para o funcionamento da feature de localizar da página
+#Para visualizar a landingpage (ainda não responsiva)
+#Permitir localização para o funcionamento da feature de localizar da página
 
