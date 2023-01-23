@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/TDigital/static/js/main.1c64fe3e.js",
+    "static/media/imgAlvo.svg": "/TDigital/static/media/imgAlvo.eea952ebe82f0d7dc7c419cdef429e41.svg",
+    "static/media/logo.png": "/TDigital/static/media/logo.bd9ebb63a0c51a1362dd.png",
+    "static/media/logo-ecommerce.svg": "/TDigital/static/media/logo-ecommerce.ce848c8f8c68074b3b68789578640a6d.svg",
+    "static/media/logo-fintechs.svg": "/TDigital/static/media/logo-fintechs.fe0b4786b7b980c7ca694c06fd4d3524.svg",
+    "static/media/logo-entreterimento.svg": "/TDigital/static/media/logo-entreterimento.a136b8c3edadf04b170a17df5b62eee1.svg",
+    "static/media/logo-direito.svg": "/TDigital/static/media/logo-direito.aac970388d250ac695757bd32621c655.svg",
+    "static/media/logo-mobilidade.svg": "/TDigital/static/media/logo-mobilidade.c7f8762d1dc8e9963b83b287ef78a43f.svg",
+    "static/media/logo-hospitalidade.svg": "/TDigital/static/media/logo-hospitalidade.d3fb6f57cf96ef0487baf2cdb9f2a1e3.svg",
+    "index.html": "/TDigital/index.html",
+    "main.1c64fe3e.js.map": "/TDigital/static/js/main.1c64fe3e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1c64fe3e.js"
+  ]
+}
